@@ -6,15 +6,9 @@ autor: Samuel Fonseca Verneck
 
 ```sh
 samuel@openthecode:~/Documentos/bemean$ mongoimport --db bemean --collection restaurantes --drop restaurantes.json
-2017-10-18T18:29:27.242-0200	connected to: localhost
-2017-10-18T18:29:27.242-0200	dropping: bemean.restaurantes
-2017-10-18T18:29:27.499-0200	[........................] bemean.restaurantes	0B/11.3MB (0.0%)
-2017-10-18T18:29:30.499-0200	[#.......................] bemean.restaurantes	537KB/11.3MB (4.6%)
-2017-10-18T18:29:33.499-0200	[##......................] bemean.restaurantes	1.26MB/11.3MB (11.1%)
-2017-10-18T18:29:36.499-0200	[##############..........] bemean.restaurantes	6.81MB/11.3MB (60.1%)
-2017-10-18T18:29:37.708-0200	[########################] bemean.restaurantes	11.3MB/11.3MB (100.0%)
-2017-10-18T18:29:37.713-0200	imported 25359 documents
-
+2017-10-18T18:55:23.457-0200	connected to: localhost
+2017-10-18T18:55:23.457-0200	dropping: bemean.restaurantes
+2017-10-18T18:55:25.159-0200	imported 25359 documents
 ```
 ## Contando os restaurantes
 
