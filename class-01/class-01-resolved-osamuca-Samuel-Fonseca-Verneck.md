@@ -1,6 +1,6 @@
 # MongoDB - Aula 01 - Exercício
 
-autor: Samuel Fonseca Verneck
+Autor: Samuel Fonseca Verneck
 
 ## Importando os restaurantes
 
