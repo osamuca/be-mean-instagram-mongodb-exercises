@@ -1,11 +1,11 @@
 # MongoDB - Aula 01 - Exercício
 
-Autor: Samuel Fonseca Verneck
+autor: Samuel Fonseca Verneck
 
 ## Importando os restaurantes
 
 ```sh
-samuel@openthecode:~/Documentos/bemean$ mongoimport --db bemean --collection restaurantes --drop date.json
+samuel@openthecode:~/Documentos/bemean$ mongoimport --db bemean --collection restaurantes --drop restaurantes.json
 2017-10-18T18:29:27.242-0200	connected to: localhost
 2017-10-18T18:29:27.242-0200	dropping: bemean.restaurantes
 2017-10-18T18:29:27.499-0200	[........................] bemean.restaurantes	0B/11.3MB (0.0%)
